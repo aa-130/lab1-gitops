@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/aa-130/lab1.git
     targetRevision: HEAD
-    path: kubernetes/app
+    #path: kubernetes/app
   destination:
     server: https://kubernetes.default.svc
     namespace: default
