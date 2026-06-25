@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: lab1
-        image: ghcr.io/aa-130/lab1:sha-a3b0f7c9264de63f123734629e9d5ec1f71c8fd8
+        image: ghcr.io/aa-130/lab1:sha-5b9473845a3387407b19ffb8b54d8dc337584e33
         ports:
         - containerPort: 80
